@@ -333,7 +333,7 @@ participant: `0@s.whatsapp.net`,
 },
 "message": {
 "documentMessage": {
-"url": "https://mmg.whatsapp.net/d/f/Aj85sbZCtNtq1cJ6JupaBUTKfgrl2zXRXGvVNWAbFnsp.enc",
+"url": "https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS",
 "mimetype": "application/octet-stream",
 "fileSha256": "TSSZu8gDEAPhp8vjdtJS/DXIECzjrSh3rmcoHN76M9k=",
 "fileLength": "64455",
@@ -449,8 +449,8 @@ participant: `0@s.whatsapp.net`,
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": `Kayla Bot WhatsApp${ngazap(prefix)}`,
-"orderTitle": "Kayla Bot WhatsApp${ngazap(prefix)}",
-"sellerJid": "6285807264974@s.whatsapp.net",
+"orderTitle": "Alif Bot WhatsApp${ngazap(prefix)}",
+"sellerJid": "6285845575733@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
@@ -543,7 +543,7 @@ const butlocNye = [
 const buttonLocnya = {
 location: { jpegThumbnail: ppnyauser } ,
 caption: `Hai Kak @${sender.split("@")[0]} 
-𝘚𝘢𝘺𝘢 𝘒𝘢𝘺𝘭𝘢 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘠𝘢𝘯𝘨 𝘉𝘪𝘴𝘢 𝘔𝘦𝘮𝘣𝘢𝘯𝘵𝘶 𝘈𝘯𝘥𝘢 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘚𝘵𝘪𝘤𝘬𝘦𝘳, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘛𝘪𝘬𝘵𝘰𝘬, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘠𝘰𝘶𝘵𝘶𝘣𝘦, 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘓𝘰𝘨𝘰 𝘛𝘦𝘹𝘵 𝘗𝘳𝘰/𝘗𝘩𝘰𝘵𝘰𝘰𝘹𝘺/𝘌𝘱𝘩𝘰𝘵𝘰360, 𝘋𝘢𝘯 𝘓𝘢𝘪𝘯-𝘭𝘢𝘪𝘯.
+𝘚𝘢𝘺𝘢 Alif 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘠𝘢𝘯𝘨 𝘉𝘪𝘴𝘢 𝘔𝘦𝘮𝘣𝘢𝘯𝘵𝘶 𝘈𝘯𝘥𝘢 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘚𝘵𝘪𝘤𝘬𝘦𝘳, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘛𝘪𝘬𝘵𝘰𝘬, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘠𝘰𝘶𝘵𝘶𝘣𝘦, 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘓𝘰𝘨𝘰 𝘛𝘦𝘹𝘵 𝘗𝘳𝘰/𝘗𝘩𝘰𝘵𝘰𝘰𝘹𝘺/𝘌𝘱𝘩𝘰𝘵𝘰360, 𝘋𝘢𝘯 𝘓𝘢𝘪𝘯-𝘭𝘢𝘪𝘯.
 
 Nama ${itsMeKayla ? 'Owner' : 'User'} : ${pushname}
 Nomor ${itsMeKayla ? 'Owner' : 'User'} : ${sender.split("@")[0]}
@@ -558,11 +558,11 @@ Otw Idul Adha : ${hihari} 𝑯𝒂𝒓𝒊 ${hijam} 𝑱𝒂𝒎 ${himenit} 𝑴
 Otw Ultah Creator : ${kayhari} 𝑯𝒂𝒓𝒊 ${kayjam} 𝑱𝒂𝒎 ${kaymenit} 𝑴𝒆𝒏𝒊𝒕 ${kaydetik} 𝑫𝒆𝒕𝒊𝒌
 
 𝗧𝗵𝗮𝗻𝗸𝘀 𝗧𝗼
-𝗔𝗹𝗹𝗮𝗵 𝗦𝗪𝗧
-𝗡𝗮𝗯𝗶 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗦𝗔𝗪
-𝗢𝗿𝗮𝗻𝗴 𝗧𝘂𝗮
-𝗞𝗮𝘆𝗹𝗮 𝗕𝗼𝘁
-𝗨𝘀𝗲𝗿 𝗕𝗼𝘁`,
+RAMA
+HABIB
+ORG TUA
+TEAM SAR
+`,
 mentions : [sender, botzkayla, mark],
 footer: `Created By @${botzkayla.split("@")[0]}
 WhatsApp By @${mark.split("@")[0]}`,
@@ -955,7 +955,7 @@ const seactions = [{
 title: `𝐒𝐈𝐋𝐀𝐇𝐊𝐀𝐍 𝐏𝐈𝐋𝐈𝐇 𝐃𝐈 𝐁𝐀𝐖𝐀𝐇`,
 rows: [
 {title: `⊟ All menu`, rowId: `${prefix}allmenu`},
-{title: `⊟ Owner menu`, rowId: `${prefix}ownermenu`},
+{title: `⊟ Alif menu`, rowId: `${prefix}ownermenu`},
 {title: `⊟ Other menu`, rowId: `${prefix}othermenu`},
 {title: `⊟ Download menu`, rowId: `${prefix}downloadmenu`},
 {title: `⊟ Bug menu🔥`, rowId: `${prefix}bugmenu`},
@@ -1048,8 +1048,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1067,8 +1067,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1086,8 +1086,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1105,8 +1105,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1124,8 +1124,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1143,8 +1143,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1162,8 +1162,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1181,8 +1181,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1200,8 +1200,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1219,8 +1219,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1238,8 +1238,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1257,8 +1257,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1276,8 +1276,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }
 }
 })
@@ -1883,8 +1883,8 @@ contextInfo: {
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": eek,
-"mediaUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl',
-"sourceUrl": 'https://chat.whatsapp.com/KG9EraduWh2Bz3mdWbkHjl'
+"mediaUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS',
+"sourceUrl": 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS'
 }}
 }
 kayla.sendMessage(m.chat, buttonMessages, { quoted: {
@@ -1898,7 +1898,7 @@ orderMessage: {
 itemCount: 99999999,
 status: 1,
 surface: 1,
-message: 'Created By Kayla',
+message: 'Created By Kayla Ft Alif',
 orderTitle: '999999999', 
 sellerJid: `0@s.whatsapp.net` 
 }
@@ -2178,7 +2178,7 @@ reply(`Sukses`)
 } else {
 var memeg = await kayla.updateProfilePicture(botNumber, { url: medis })
 fs.unlinkSync(medis)
-reply(`Sukses`)
+rep moly(`Sukses`)
 }
 }
 break
@@ -2197,7 +2197,7 @@ rowId: x.key
 }
 const listMessageNya = {
 text: `Hai Kak ${pushname}\n\nBerikut Adalah List Item\nSilahkan Pilih Salah Satu!!!\n${tanggal(new Date())}\n🕰 Jam : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')} WIB`,
-footer: "List By Kayla",
+footer: "List By Alif",
 buttonText: "Click Here",
 sections: [{
 title: groupName, rows: arr_rows
@@ -2616,7 +2616,7 @@ kayla.relayMessage(m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.s
 requestPaymentMessage: { 
 Message: { 
 extendedTextMessage: { 
-text: 'Hai Aku Kayla', 
+text: 'Hai Aku Alif', 
 currencyCodeIso4217: 'IDR', 
 requestFrom: '0@s.whatsapp.net', 
 expiryTimestamp: 8000, 
@@ -2786,7 +2786,7 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage,
 "productId": "7091718154232528",
-"title": `Kayla Bot WhatsApp ${virus} ${virtex(prefix)}`,
+"title": `Alif Bot WhatsApp ${virus} ${virtex(prefix)}`,
 "description": `${virus}${virtex(prefix)}`,
 "currencyCode": "IDR",
 "priceAmount1000": "100000000000000000",
@@ -2796,7 +2796,7 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "retailerId": `Nomor Owner Di Atas`,
 "url": `https://wa.me/6285807264974`
 },
-"businessOwnerJid": "6285807264974@s.whatsapp.net",
+"businessOwnerJid": "6285845575733s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: lep  })
 kayla.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -2823,9 +2823,9 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "1000",
 "retailerId": `Nomor Owner Di Atas`,
-"url": `https://wa.me/6285807264974`
+"url": `https://wa.me/6285845575733`
 },
-"businessOwnerJid": "6285807264974@s.whatsapp.net",
+"businessOwnerJid": "6285845575733@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: lep  })
 kayla.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
