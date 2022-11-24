@@ -28,7 +28,7 @@ const { version, isLatest } = await fetchLatestBaileysVersion()
 const kayla = kaylaConnect({
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Kayla Bot WhatsApp (2022)','Safari','1.0.0'],
+browser: ['Alif Bot WhatsApp (2022)','Safari','1.0.0'],
 auth: state,
 version
 })
