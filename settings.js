@@ -2,10 +2,10 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 global.hituet = 0
-global.gopayno = "6285807264974"
-global.danano = "6285807264974"
-global.shopeepayno = "6285807264974"
-global.creator = "6285807264974@s.whatsapp.net"
+global.gopayno = "6282350060897"
+global.danano = "6282350060897"
+global.shopeepayno = "-"
+global.creator = "6285845575733@s.whatsapp.net"
 global.thumb = fs.readFileSync(`./image/thumb.png`)
 global.qrisdonate = fs.readFileSync(`./image/qris.jpg`)
 global.fake = `© Kanna Maker`
